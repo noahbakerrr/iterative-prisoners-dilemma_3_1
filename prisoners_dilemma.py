@@ -545,7 +545,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
     ######
-    ######
+    ###### noah baker is going to work on this one
     #
     elif player == 18:
         if getting_team_name:
